@@ -1,11 +1,11 @@
 {
   "name": "captains-log",
   "version": "1.0.0",
-  "description": "",
+  "description": "![](https://cdn.shopify.com/s/files/1/2256/1635/products/4520_c-01.jpg?v=1510506828)",
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    "start": "nodemon"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
